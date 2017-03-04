@@ -1,0 +1,5 @@
+C:\Users\Nani Quichocho\Documents\Visual Studio 2017\Projects\Spreadsheet_JSantos\SpreadsheetLogicEngine\bin\Debug\SpreadsheetLogicEngine.dll
+C:\Users\Nani Quichocho\Documents\Visual Studio 2017\Projects\Spreadsheet_JSantos\SpreadsheetLogicEngine\bin\Debug\SpreadsheetLogicEngine.pdb
+C:\Users\Nani Quichocho\Documents\Visual Studio 2017\Projects\Spreadsheet_JSantos\SpreadsheetLogicEngine\obj\Debug\SpreadsheetLogicEngine.csprojResolveAssemblyReference.cache
+C:\Users\Nani Quichocho\Documents\Visual Studio 2017\Projects\Spreadsheet_JSantos\SpreadsheetLogicEngine\obj\Debug\SpreadsheetLogicEngine.dll
+C:\Users\Nani Quichocho\Documents\Visual Studio 2017\Projects\Spreadsheet_JSantos\SpreadsheetLogicEngine\obj\Debug\SpreadsheetLogicEngine.pdb

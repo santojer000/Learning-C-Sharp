@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet_JSantos", "Spreadsheet_JSantos\Spreadsheet_JSantos.csproj", "{D3B7B952-36C6-4166-B807-1573172E48A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetLogicEngine", "SpreadsheetLogicEngine\SpreadsheetLogicEngine.csproj", "{340F0F2F-DF2F-4AB6-A792-5E7E79A5DC31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B7B952-36C6-4166-B807-1573172E48A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B7B952-36C6-4166-B807-1573172E48A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B7B952-36C6-4166-B807-1573172E48A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B7B952-36C6-4166-B807-1573172E48A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340F0F2F-DF2F-4AB6-A792-5E7E79A5DC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340F0F2F-DF2F-4AB6-A792-5E7E79A5DC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340F0F2F-DF2F-4AB6-A792-5E7E79A5DC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340F0F2F-DF2F-4AB6-A792-5E7E79A5DC31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
